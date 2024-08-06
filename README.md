@@ -150,5 +150,6 @@ Vnější rozměry jsou 11,95x6m</h5>
     <h5>zředěné a vypuštěné instalatérské trubky v termoflexu v bodech
 Vnitřní dekorace: stěny a strop jsou zakončeny dřevěným euroobložením
 přírodním olejem ve 2 vrstvách, nebo namontovaný vlhkovzdorný sádrokarton nebo jiný typ dekorace dle výběru zákazníka. Podlaha je laminátová nebo dřevěná podlaha odolná proti vlhkosti. V koupelně je dlažba. Interiérové dveře dle výběru zákazníka</h5>
+<hr />
   </body
 </html>
