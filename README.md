@@ -164,7 +164,7 @@ přírodním olejem ve 2 vrstvách, nebo namontovaný vlhkovzdorný sádrokarton
 <hr />
 <h2>Cena 461.350</h2> <h3><i>Kod 3333</i></h3>
 <img src="https://i.postimg.cc/j5HRyR22/De-Watermark-ai-1722947021424.png" /> <h3>Plocha modulu je 18,75 m2Terasa 11,25 m2 |
-Zastavěná plocha je 30,0 m2 Vnější rozměry jsou 7,5x4m</h3> <h2>KIT</h2> <h3>Rám</h3> <h5>je ošetřen protipožární bioochranou třídy A, ve speciálních vanách, nanaší produkci.</h5>  <h3>Izolace</h3>
+Zastavěná plocha je 30,0 m2 Vnější rozměry jsou 7,5x4m</h3> <h2>KIT</h2> <h3>Rám</h3> <h5>je ošetřen protipožární bioochranou třídy A, ve speciálních vanách, nanaší produkci.</h5> <h3>Izolace</h3>
 <h5>ekologická, nehořlavá, čedičová vata v deskách o tloušťce 150 mm.</h5> <h3>Střecha</h3> <h5>kovový profil, vlnitá střecha, nebo bitumenové tašky. Materiál dle výběru zákazníka.</h5> <h3>Okna</h3>
 <h5>2komorové zasklení energeticky úsporným sklem a 6komorový profil. Tento typ oken je vybrán pro dobrou zvukovou izolaci a mrazuvzdornost.</h5> <h3>Fasáda</h3> <h5>je namontován dřevěný dokončovací materiál jakéhokoli typu, který je pokryt fasádní barvou, možná kombinace s kovem. Také za příplatek jsou možné odvětrávané fasády nebo jiné typy, dle stylu domu. Vchodové dveře si vybírá zákazník.</h5>
 <h3>Elektřina</h3> <h5>nehořlavý kabel v kovové vlnce, svítidla, zásuvky avypínače světel, rozvaděč a automatika, vstup PZV a výstupzemnícího kabelu ven.</h5> <h3>Instalatérství</h3>
