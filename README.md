@@ -151,5 +151,9 @@ Vnější rozměry jsou 11,95x6m</h5>
 Vnitřní dekorace: stěny a strop jsou zakončeny dřevěným euroobložením
 přírodním olejem ve 2 vrstvách, nebo namontovaný vlhkovzdorný sádrokarton nebo jiný typ dekorace dle výběru zákazníka. Podlaha je laminátová nebo dřevěná podlaha odolná proti vlhkosti. V koupelně je dlažba. Interiérové dveře dle výběru zákazníka</h5>
 <hr />
+<img src="https://i.postimg.cc/V6jLLGgM/De-Watermark-ai-1722934555827.png" />
+<h3>Plocha modulů je 90,0 m2 Terasa 15,0 m2 | Zastavěná plocha je 105 m2</h3> <h5>Vnější rozměry: 14x7,5m</h5> <h2>KIT</h2> <h3>Rám</h3> <h5>je v naší výrobě ošetřen protipožární bioochranou třídy A ve speciálních vanách.</h5> <h3>Izolace</h3> <h5>ekologická, nehořlavá, čedičová vata v deskách o tloušťce 150 mm.</h5> <h3>Střecha</h3> <h5>kovový profil, vlnitá střecha, nebo bitumenové tašky. Materiál dle výběru zákazníka.</h5> <h3>Okna</h3> <h5>2komorové zasklení energeticky úsporným sklem a 6komorový profil. Tento typ oken je vybrán pro dobrou zvukovou izolaci a mrazuvzdornost.</h5> <h3>Fasáda</h3> 
+<h5>Fasáda: je namontován dřevěný dokončovací materiál jakéhokoli typu, který je pokryt fasádní barvou, možná kombinace s kovem. Za příplatek jsou také možné odvětrávané fasády nebo jiné typy, v závislosti na tomze stylu domu. Vchodové dveře si vybírá zákazník. Elektřina: nehořlavý kabel v kovové vlně, svítidla, zásuvky a vypínače, rozvaděče a automatika, vstupní PZV a externí zemnící kabel.</h5>
+<h3>Instalatérství</h3> <h3>Vnitřní dekorace</h3> <h5>stěny a strop, dřevěné euroobložení ošetřené přírodním olejem ve 2 vrstvách, nebo namontovaný vlhkovzdorný sádrokarton nebo jiný typ dekorace dle výběru zákazníka. Podlaha je laminátová nebo dřevěná podlaha odolná proti vlhkosti. Sprchový kout je vydlážděn. Interiérové dveře dle výběru zákazníka</h5>
   </body
 </html>
